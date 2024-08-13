@@ -1,0 +1,52 @@
+{
+    "tabnine.experimentalAutoImports": true,
+    "emmet.includeLanguages": {
+"javascript": "javascriptreact"
+},
+"files.autoSave": "afterDelay",
+"auto-close-tag.activationOnLanguage": [
+
+    "xml",
+    "php",
+    "blade",
+    "ejs",
+    "jinja",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "plaintext",
+    "markdown",
+    "vue",
+    "liquid",
+    "erb",
+    "lang-cfml",
+    "cfml",
+    "HTML (EEx)",
+    "HTML (Eex)",
+    "plist"
+],
+"auto-rename-tag.activationOnLanguage": [
+
+    "html",
+        "xml",
+        "javascript",
+        "javascriptreact",
+        "typescriptreact",
+        "php",
+        "css"
+],
+"[javascriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+},
+"[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+},
+"files.associations": {
+    "*.mmd": "mermaid"
+},
+"editor.wordWrap": "on",
+"chat.editor.wordWrap": "on",
+"cSpell.language": "en,es",
+"C_Cpp.autocompleteAddParentheses": true
+}
