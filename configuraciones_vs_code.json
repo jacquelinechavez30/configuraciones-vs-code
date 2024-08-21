@@ -48,5 +48,11 @@
 "editor.wordWrap": "on",
 "chat.editor.wordWrap": "on",
 "cSpell.language": "en,es",
-"C_Cpp.autocompleteAddParentheses": true
+"C_Cpp.autocompleteAddParentheses": true,
+    "workbench.iconTheme": "vscode-icons",
+"[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"editor.guides.bracketPairs": true,
+
 }
