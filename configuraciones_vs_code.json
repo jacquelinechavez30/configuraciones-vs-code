@@ -43,24 +43,10 @@
     "editor.defaultFormatter": "vscode.json-language-features"
 },
 "files.associations": {
-    "*.mmd": "mermaid",
-   /* "*.mmd": "markdown"*/
+    "*.mmd": "mermaid"
 },
 "editor.wordWrap": "on",
 "chat.editor.wordWrap": "on",
 "cSpell.language": "en,es",
-"C_Cpp.autocompleteAddParentheses": true,
-"workbench.iconTheme": "vscode-icons",
-"[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-},
-"editor.guides.bracketPairs": true,
-"hediet.vscode-drawio.resizeImages": null,
-"terminal.integrated.defaultProfile.windows": "Git Bash",
-
-
-
-
-
-
+"C_Cpp.autocompleteAddParentheses": true
 }
