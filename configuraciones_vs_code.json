@@ -1,6 +1,5 @@
 {
-    "tabnine.experimentalAutoImports": true,
-    "emmet.includeLanguages": {
+"emmet.includeLanguages": {
 "javascript": "javascriptreact"
 },
 "files.autoSave": "afterDelay",
@@ -44,7 +43,7 @@
 },
 "files.associations": {
     "*.mmd": "mermaid",
-   /* "*.mmd": "markdown"*/
+    "*.md": "markdown"
 },
 "editor.wordWrap": "on",
 "chat.editor.wordWrap": "on",
@@ -57,6 +56,7 @@
 "editor.guides.bracketPairs": true,
 "hediet.vscode-drawio.resizeImages": null,
 "terminal.integrated.defaultProfile.windows": "Git Bash",
+"workbench.editor.empty.hint": "hidden"
 
 
 
