@@ -1,5 +1,6 @@
 {
-"emmet.includeLanguages": {
+    "tabnine.experimentalAutoImports": true,
+    "emmet.includeLanguages": {
 "javascript": "javascriptreact"
 },
 "files.autoSave": "afterDelay",
@@ -56,7 +57,10 @@
 "editor.guides.bracketPairs": true,
 "hediet.vscode-drawio.resizeImages": null,
 "terminal.integrated.defaultProfile.windows": "Git Bash",
-"workbench.editor.empty.hint": "hidden"
+"workbench.editor.empty.hint": "hidden",
+
+//Depende de mi variale de entorno PATH
+//"python.defaultInterpreterPath": //"c:\\Users\\Jacky\\AppData\\Local\\Microsoft\\WindowsApps\\python3.13.exe",
 
 
 
